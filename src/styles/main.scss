@@ -1,0 +1,13 @@
+@import url(./_reset.scss);
+@import url(./_fonts.scss);
+@import url(./_animation.scss);
+
+body {
+    font-family: 'Facundo';
+}
+
+.container {
+    width: 900px;
+    padding: 0 15px;
+    margin: 40px auto;
+}
